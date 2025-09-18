@@ -1,1 +1,2 @@
-RideApp - Inheritance
+RideApp - Interface 
+DeviceApp - Interface
