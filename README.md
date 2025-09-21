@@ -1,3 +1,5 @@
-RideApp - Interface <br>
 DeviceApp - Interface <br>
-Fitness Centre - Enum with 2D Arrays
+Fitness Centre - Enum & 2D Arrays <br>
+RideApp - Interface <br>
+Vehicle Registration - Enum & Inheritance 
+
