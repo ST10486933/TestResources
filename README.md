@@ -1,6 +1,8 @@
 DeviceApp - Interface <br>
-Fitness Centre - Enum & 2D Arrays <br>
+FitnessCentre - Enum & 2D Arrays <br>
+OnlineLearning - Inheritence <br>
+PaymentProcessing - Abstract Classes <br>
 RideApp - Interface <br>
-Vehicle Registration - Enum & Inheritance <br>
-Online Learning - Inheritence
+VehicleRegistration - Enum & Inheritance 
+
 
