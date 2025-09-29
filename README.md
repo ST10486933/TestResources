@@ -4,6 +4,7 @@ PROG6112 Mock Test Resources
 BugTrackerSystem - Array Lists with Enum <br>
 DeviceApp - Interface <br>
 FitnessCentre - Enum & 2D Arrays <br>
+HomeMakeover (2022 Test Question 1) - Single Arrays & 2D Arrays <br>
 OnlineLearning - Inheritence <br>
 PaymentProcessing - Abstract Classes <br>
 RideApp - Interface <br>
