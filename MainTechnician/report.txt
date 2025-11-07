@@ -1,0 +1,17 @@
+TECHNICIAN REPORT 
+*********************************** 
+TECHNICIAN LOCATION: Durban
+TECHNICIAN NAME: Joe Bloggs
+REPAIR COST: R5000.0
+TECHNICIAN RATE: 10.0
+CALCULATED PAY: R500,00
+**********************************
+
+TECHNICIAN REPORT 
+*********************************** 
+TECHNICIAN LOCATION: Cape Town
+TECHNICIAN NAME: Jane Doe
+REPAIR COST: R1480.0
+TECHNICIAN RATE: 12.0
+CALCULATED PAY: R177,60
+**********************************
